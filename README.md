@@ -19,6 +19,11 @@ I am currently an undergraduate student in Software Engineering, in my fourth se
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jdqr10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jdqr10&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdqr10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## Contact Me
 <a href="https://www.instagram.com/jdq_10/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
