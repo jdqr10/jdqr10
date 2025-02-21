@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" widt=500px src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-***About me***
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> ***About me***
 
 I am currently an undergraduate student in Software Engineering, in my fourth semester. Last year, I completed a technical degree in Software Development. I have experience with programming languages such as JavaScript, PHP, and some Java, along with frameworks like Angular and Laravel. I am passionate about learning and building new, productive, innovative, and creative projects. I am always looking for opportunities to improve my skills and contribute to interesting projects.
 
