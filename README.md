@@ -28,5 +28,5 @@ I am currently an undergraduate student in Software Engineering, in my fourth se
 <a href="https://www.instagram.com/jdq_10/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
-<a href="https://www.linkedin.com/in/jer%C3%B3nimo-duque-215588331/">
+<a href="https://www.linkedin.com/in/jer%C3%B3nimo-duque-756140327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
